@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/completablefiture/completablefiture.iml" filepath="$PROJECT_DIR$/completablefiture/completablefiture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/date-time-api/date-time-api.iml" filepath="$PROJECT_DIR$/date-time-api/date-time-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day-2/day-2.iml" filepath="$PROJECT_DIR$/day-2/day-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java8.iml" filepath="$PROJECT_DIR$/.idea/java8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stream-api/stream-api.iml" filepath="$PROJECT_DIR$/stream-api/stream-api.iml" />
+    </modules>
+  </component>
+</project>
