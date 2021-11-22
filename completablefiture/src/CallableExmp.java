@@ -7,13 +7,13 @@ public class CallableExmp {
             public String call() throws Exception {
                 // Perform some computation
                 Thread.sleep(2000);
-                return "Return some result";
+                return "Return some result1";
             }
         };
         Callable<String> callable1 = () -> {
             // Perform some computation
             Thread.sleep(2000);
-            return "Return some result";
+            return "Return some result2";
         };
 
     }
